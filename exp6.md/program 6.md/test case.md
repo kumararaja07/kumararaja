@@ -53,4 +53,4 @@ print("Predicted POS tags:", predicted_tags)
 
 Output:
 
-<img width="869" height="148" alt="Screenshot 2025-09-17 095824" src="https://github.com/user-attachments/assets/33378a15-5db4-48cf-8150-4009db177583" />
+<img width="869" height="148" alt="Screenshot 2025-09-17 095824" src="https://github.com/user-attachments/assets/98980ba4-e4b2-4539-b58a-3329dd7bc125" />

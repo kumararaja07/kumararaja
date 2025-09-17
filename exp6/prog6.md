@@ -47,3 +47,6 @@ model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accur
 
 # Summary
 model.summary()
+output:
+<img width="780" height="593" alt="image" src="https://github.com/user-attachments/assets/edb38d2a-2fa6-42aa-9a2e-93b9bba93c72" />
+
